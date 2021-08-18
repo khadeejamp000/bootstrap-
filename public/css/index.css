@@ -1,0 +1,23 @@
+.first
+{
+    background-image:url("/public/image/Premium-Valuations-of-MNC-Companies-in-India-Future-Expectations.png") ;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.class2
+{
+    padding-left: 400px;
+    margin-top: -150px;
+}
+.img1
+{
+    image:url("/public/image/images\ \ expeience\(2\).jpg")
+}
+h3{
+    display: inline;
+}
+.botton
+{
+    width:"2%";
+}
